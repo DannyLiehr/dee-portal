@@ -1,0 +1,10 @@
+{
+    "name": "dee-work-portal",
+    "version": "0.1.0",
+    "author": "Dee",
+    "description": "Dee's Work Portal",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    }
+}
